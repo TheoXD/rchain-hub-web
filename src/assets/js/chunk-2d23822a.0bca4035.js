@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d23822a"],{fda7:function(n,t,e){"use strict";e.r(t);var o=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("ion-content",[e("p",[n._v("You have no notifications")])])},a=[],i={name:"Notifications"},c=i,u=e("2877"),s=Object(u["a"])(c,o,a,!1,null,null,null);t["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d23822a.0bca4035.js.map
